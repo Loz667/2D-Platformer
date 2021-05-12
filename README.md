@@ -1,2 +1,2 @@
-# Code Examples
-Scripts I have written for school projects and game jams
+# Projects
+Project files from college and game jams
